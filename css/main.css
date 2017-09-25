@@ -41,12 +41,3 @@ ul.posts {
 ul.posts li {
   list-style: none;
 }
-
-#content {
-  position: relative;
-}
-#content img {
-  position: absolute;
-  top: 0px;
-  right: 0px;
-}
